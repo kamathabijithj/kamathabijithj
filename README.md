@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working on my PhD. I work in the area of sampling theory and computational sensing.
+- 📫 You can find me on [Twitter](https://twitter.com/KamathAbijith) and find my papers on [Google Scholar](https://scholar.google.com/citations?user=yPXzUJMAAAAJ&hl=en)!
 
 <!--
 **kamath-abhijith/kamath-abhijith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
