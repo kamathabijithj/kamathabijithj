@@ -1,19 +1,24 @@
-# Hi there 👋
+# 👋 Hi, I'm Abijith Kamath
 
-- 🔭 I’m currently working on my PhD. I work in the area of sampling theory and computational sensing.
-- 📫 You can find me on [Twitter](https://twitter.com/KamathAbijith). Find my papers on [Google Scholar](https://scholar.google.com/citations?user=yPXzUJMAAAAJ&hl=en)!
+🎓 **PhD Student, Department of Electrical Engineering, Indian Institute of Science (IISc), Bangalore**  
+🔬 **Research Area:** Computational Imaging, Inverse Problems, and Signal Processing  
+🌐 [kamathabijithj.github.io](https://kamathabijithj.github.io)
 
-<!--
-**kamath-abhijith/kamath-abhijith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+I work at the intersection of task-specific imaging hardware and computational reconstruction algorithms.  
+My co-design work includes:
+- Super-resolution/sub-Nyquist/event-driven ultrasound imaging
+- Near-field event-driven radar imaging
+- Event-driven single-exposure high-dynamic range imaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect
+- 🌐 [Website](https://kamathabijithj.github.io)
+- ✉️ [Email](mailto:abijithk@iisc.ac.in)
+
+---
+
+> “Computational imaging is not just about capturing light — it’s about reconstructing understanding.”
